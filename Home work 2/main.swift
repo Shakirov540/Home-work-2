@@ -7,10 +7,7 @@
 
 import Foundation
 
-//e,lwmlwemc
-//wl;mlwmckmnw
-//kndjcuewkodjdxkifhcuwjedichujihturfjihdihibiejieijeii
-//mdojjjiwjihcheihfuodjcivcrefcjihiyehwbdvhviuehufhijiskdiuwjdoj3outjchjowurfhvnrfkhgiujihfuyidbcnihfifhjsjhdichihdnihfcjihdifieiehihiicubcbschebfbcncnbjcbjfifjicnccnnjbfjbcjbjw
+
 func solveSquare(num: Int) {
     print("Kvadrad \(num) raven \(num * num)")
 }
